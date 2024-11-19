@@ -20,4 +20,4 @@ const elements = ingredients.map(element =>{
 )
 itemsList.append(...elements);
 
-console.log("this is item list",itemsList);
+// console.log("this is item list",itemsList);
